@@ -1,4 +1,4 @@
-package DesableRebasename::Callbacks;
+package DisableRebasename::Callbacks;
 use strict;
 use warnings;
 

@@ -1,9 +1,11 @@
-DesableRebasename - Movable Type Plugin
+DisableRebasename - Movable Type Plugin
 =================
+
+[Japanese](README.ja.md)
 
 ## Overview
 
-DesableRebasename is Movable Type Plugin. This plugin can disable changing a basename at edit entry.
+DisableRebasename is Movable Type Plugin. This plugin can disable changing a basename at edit entry.
 
 ## Prerequisites
 
@@ -11,8 +13,8 @@ DesableRebasename is Movable Type Plugin. This plugin can disable changing a bas
 
 ## Installation
 
-1. Unpack the DesableRebasename's archive.
-1. Copy the contents of plugins/DesableRebasename into /path/to/mt/plugins/
+1. Unpack the DisableRebasename's archive.
+1. Copy the contents of plugins/DisableRebasename into /path/to/mt/plugins/
 
 ---
 MT::Lover::bitpart :)

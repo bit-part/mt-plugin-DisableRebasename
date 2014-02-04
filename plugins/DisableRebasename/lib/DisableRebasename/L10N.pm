@@ -1,4 +1,4 @@
-package DesableRebasename::L10N;
+package DisableRebasename::L10N;
 use strict;
 use base 'MT::Plugin::L10N';
 

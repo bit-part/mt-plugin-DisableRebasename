@@ -1,6 +1,6 @@
-package DesableRebasename::L10N::ja;
+package DisableRebasename::L10N::ja;
 use strict;
-use base 'DesableRebasename::L10N::en_us';
+use base 'DisableRebasename::L10N::en_us';
 use vars qw ( %Lexicon );
 
 %Lexicon = (
