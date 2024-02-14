@@ -9,7 +9,9 @@ DisableRebasename is Movable Type Plugin. This plugin can disable changing a bas
 
 ## Prerequisites
 
-* Movable Type 6.0 or higher (I confirmed it.)
+* Movable Type 6
+* Movable Type 7
+* Movable Type 8
 
 ## Installation
 
